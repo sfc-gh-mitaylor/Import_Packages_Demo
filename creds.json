@@ -1,0 +1,6 @@
+{
+"account": "your_account_name", 
+"user": "your_user_name",
+"password": "insert_your_pwd_here",
+"role": "ACCOUNTADMIN"
+}
